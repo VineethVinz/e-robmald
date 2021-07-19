@@ -1,1 +1,2 @@
-# e-robmald
+# For running e-robmald
+use app.py
